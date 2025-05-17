@@ -11,8 +11,6 @@ This chatbot uses:
 - Google Sheets integration for conversation logging
 - Simple HTML/CSS/JS frontend
 
-## 🚀 How to Run Locally
-
 
 
 ![Screenshot 2025-05-18 005932](https://github.com/user-attachments/assets/72478d28-9a6d-444e-abbf-f3630ea38b64)
@@ -20,6 +18,7 @@ This chatbot uses:
 e
 ![Screenshot 2025-05-18 010314](https://github.com/user-attachments/assets/22d87b6a-bcb3-470b-8498-43f5f95cb5bc)
 
+## 🚀 How to Run Locally
 ```bash
 
 # Clone the repository
