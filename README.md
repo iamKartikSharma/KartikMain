@@ -11,28 +11,18 @@ This chatbot uses:
 - Google Sheets integration for conversation logging
 - Simple HTML/CSS/JS frontend
 
-barbeque-nation-chatbot/
-│
-├── app.py
-├── config.py
-├── post_call_logger.py
-├── server.py
-├── test_api.py
-├── utils.pys
-│
-├── chatbot/ 
-├── kb_data/
-├── knowledge_base/
-├── state_prompts/
-├── static/ 
-├── templates/
-├── webhook/ # Retell webhook logic
-│
-├── .env.example # Sample environment variable config
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-│
-├── Screenshot 2025-05-18 ...png # UI flow or architecture diagrams
+## 🚀 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/barbeque-chatbot.git
+cd barbeque-chatbot
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+python app.py
 
 
 ![Screenshot 2025-05-18 005932](https://github.com/user-attachments/assets/72478d28-9a6d-444e-abbf-f3630ea38b64)
