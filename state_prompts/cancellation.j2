@@ -1,0 +1,7 @@
+{% if not context.get('reservation_id') %}
+Please provide your reservation ID to proceed with cancellation.
+{% else %}
+Your reservation with ID {{ context.reservation_id }} has been successfully cancelled. You will receive a confirmation SMS shortly.
+
+Is there anything else I can help you with?
+{% endif %}

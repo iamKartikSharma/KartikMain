@@ -1,0 +1,42 @@
+{
+  "faq": [
+    {
+      "question": "What are the opening hours of Barbeque Nation in Delhi?",
+      "answer": "Barbeque Nation Delhi is open from 12:00 PM to 3:30 PM for lunch and 6:30 PM to 11:00 PM for dinner, seven days a week."
+    },
+    {
+      "question": "What is the price of the buffet at Barbeque Nation Delhi?",
+      "answer": "The buffet at Barbeque Nation Delhi costs ₹799 per person (plus taxes) for lunch on weekdays, ₹899 for lunch on weekends, and ₹999 for dinner every day. Children between 4-8 years are charged at 60% of the adult price."
+    },
+    {
+      "question": "Where is Barbeque Nation located in Delhi?",
+      "answer": "Barbeque Nation has multiple outlets in Delhi. Our main branches are at: 1) Connaught Place - N-79, Outer Circle, 2) Janakpuri - 3rd Floor, Unity One Mall, 3) Saket - 3rd Floor, Select Citywalk Mall, 4) Vasant Kunj - Ground Floor, Ambience Mall."
+    },
+    {
+      "question": "Do I need to make a reservation at Barbeque Nation Delhi?",
+      "answer": "While walk-ins are welcome, we recommend making a reservation, especially for weekends and holidays, to avoid waiting. You can book a table through our website, mobile app, or by calling the restaurant directly."
+    },
+    {
+      "question": "Is there a vegetarian menu at Barbeque Nation Delhi?",
+      "answer": "Yes, Barbeque Nation Delhi offers an extensive vegetarian menu with a variety of starters, main courses, and desserts. We have separate grilling stations for vegetarian and non-vegetarian items."
+    },
+    {
+      "question": "What special offers are available at Barbeque Nation Delhi?",
+      "answer": "We offer a 15% discount for lunch on weekdays, special rates for birthday celebrations, and a 10% discount for senior citizens. We also have seasonal festivals with special menus throughout the year."
+    }
+  ],
+  "booking": [
+    {
+      "info": "Booking Information for Delhi Outlets",
+      "details": "To book a table at any of our Delhi outlets, please provide the following information: 1) Preferred date and time, 2) Number of guests, 3) Contact number, 4) Special requests if any. Our Delhi outlets can accommodate groups of up to 40 people with prior reservation."
+    },
+    {
+      "info": "Delhi Outlet Capacities",
+      "details": "Connaught Place: 120 seats, Janakpuri: 90 seats, Saket: 110 seats, Vasant Kunj: 100 seats. For large group bookings (more than 15 people), please book at least 2 days in advance."
+    },
+    {
+      "info": "Delhi Special Arrangements",
+      "details": "We can arrange special decorations for birthday and anniversary celebrations with 24 hours notice. Please mention your requirements while booking. A cake cutting charge of ₹250 applies if you bring your own cake."
+    }
+  ]
+}

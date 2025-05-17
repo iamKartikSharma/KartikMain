@@ -1,0 +1,42 @@
+{
+  "faq": [
+    {
+      "question": "What are the opening hours of Barbeque Nation in Bangalore?",
+      "answer": "Barbeque Nation Bangalore is open from 12:00 PM to 3:30 PM for lunch and 6:30 PM to 11:30 PM for dinner, seven days a week."
+    },
+    {
+      "question": "What is the price of the buffet at Barbeque Nation Bangalore?",
+      "answer": "The buffet at Barbeque Nation Bangalore costs ₹749 per person (plus taxes) for lunch on weekdays, ₹849 for lunch on weekends, and ₹949 for dinner every day. Children between 4-8 years are charged at 60% of the adult price."
+    },
+    {
+      "question": "Where is Barbeque Nation located in Bangalore?",
+      "answer": "Barbeque Nation has multiple outlets in Bangalore. Our main branches are at: 1) Indiranagar - 100 Feet Road, 2) Koramangala - 80 Feet Road, 3) Whitefield - Phoenix Marketcity Mall, 4) JP Nagar - 3rd Phase, 5) Electronic City - Phase 1."
+    },
+    {
+      "question": "Do I need to make a reservation at Barbeque Nation Bangalore?",
+      "answer": "While walk-ins are welcome, we recommend making a reservation, especially for weekends and holidays, to avoid waiting. You can book a table through our website, mobile app, or by calling the restaurant directly."
+    },
+    {
+      "question": "Is there a vegetarian menu at Barbeque Nation Bangalore?",
+      "answer": "Yes, Barbeque Nation Bangalore offers an extensive vegetarian menu with a variety of starters, main courses, and desserts. We have separate grilling stations for vegetarian and non-vegetarian items."
+    },
+    {
+      "question": "What special offers are available at Barbeque Nation Bangalore?",
+      "answer": "We offer a 15% discount for lunch on weekdays, special rates for birthday celebrations, and a 10% discount for senior citizens. We also have seasonal festivals with special menus throughout the year."
+    }
+  ],
+  "booking": [
+    {
+      "info": "Booking Information for Bangalore Outlets",
+      "details": "To book a table at any of our Bangalore outlets, please provide the following information: 1) Preferred date and time, 2) Number of guests, 3) Contact number, 4) Special requests if any. Our Bangalore outlets can accommodate groups of up to 50 people with prior reservation."
+    },
+    {
+      "info": "Bangalore Outlet Capacities",
+      "details": "Indiranagar: 130 seats, Koramangala: 110 seats, Whitefield: 120 seats, JP Nagar: 90 seats, Electronic City: 100 seats. For large group bookings (more than 15 people), please book at least 2 days in advance."
+    },
+    {
+      "info": "Bangalore Special Arrangements",
+      "details": "We can arrange special decorations for birthday and anniversary celebrations with 24 hours notice. Please mention your requirements while booking. A cake cutting charge of ₹200 applies if you bring your own cake."
+    }
+  ]
+}

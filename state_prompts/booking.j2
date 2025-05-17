@@ -1,0 +1,17 @@
+{% if not context.get('city') %}
+Which city would you like to make a reservation in?
+{% elif not context.get('date') %}
+For which date would you like to make your reservation?
+{% elif not context.get('time') %}
+What time would you like to reserve?
+{% elif not context.get('party_size') %}
+How many people will be dining?
+{% else %}
+Great! Let me confirm your reservation details:
+- City: {{ context.city|capitalize }}
+- Date: {{ context.date }}
+- Time: {{ context.time }}
+- Number of guests: {{ context.party_size }}
+
+Is this information correct? Please confirm or let me know what needs to be changed.
+{% endif %}
