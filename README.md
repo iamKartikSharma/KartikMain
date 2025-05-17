@@ -22,7 +22,7 @@ e
 ```bash
 
 # Clone the repository
-git clone https://github.com/your-username/barbeque-chatbot.git
+git clone https://github.com/iamkartiksharma/KartikMain.git
 cd barbeque-chatbot
 
 # Install dependencies
