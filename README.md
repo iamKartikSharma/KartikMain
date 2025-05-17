@@ -13,19 +13,19 @@ This chatbot uses:
 
 barbeque-nation-chatbot/
 │
-├── app.py # Entry point for Flask app
-├── config.py # Configuration variables and environment setup
-├── post_call_logger.py # For logging post-call analysis (optional)
-├── server.py # Webhook server for Retell AI integration
-├── test_api.py # API testing scripts
-├── utils.py # Utility functions
+├── app.py
+├── config.py
+├── post_call_logger.py
+├── server.py
+├── test_api.py
+├── utils.pys
 │
-├── chatbot/ # Core chatbot logic (state handling, transitions)
-├── kb_data/ # Preloaded knowledge base data
-├── knowledge_base/ # Knowledge base search/lookup functions
-├── state_prompts/ # Prompt templates for each conversation state
-├── static/ # Static frontend files (JS/CSS/images)
-├── templates/ # HTML templates for web frontend
+├── chatbot/ 
+├── kb_data/
+├── knowledge_base/
+├── state_prompts/
+├── static/ 
+├── templates/
 ├── webhook/ # Retell webhook logic
 │
 ├── .env.example # Sample environment variable config
